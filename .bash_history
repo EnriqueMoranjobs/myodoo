@@ -94,3 +94,20 @@ ls
 rm dumps
 mkdir dumps
 exit
+pwd
+ls
+git add .
+git commit -am "Initial Commit"
+git remote -v
+git remote add origin https://github.com/EnriqueMoranjobs/myodoo.git
+git push origin master
+ls -a
+more .gitconfig
+git config --global credential.helper store
+more .gitconfig
+push origin master
+git push origin master
+[A
+git push origin master
+git pull origin master
+exit
