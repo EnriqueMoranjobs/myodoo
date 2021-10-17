@@ -111,3 +111,24 @@ git push origin master
 git push origin master
 git pull origin master
 exit
+git push origin master
+git pull origin master
+git push -u origin master
+--help
+git push --help
+git remote -v
+git push upstream upstreammaster:master
+git push it@github.com:EnriqueMoranjobs/repo.git master
+sudo
+sudo git push it@github.com:EnriqueMoranjobs/repo.git master
+432
+4432
+4243
+git checkout
+git branch
+git push -f origin master
+git push origin master
+git add .
+git commit -am "Prueba"
+git push origin master
+exit
